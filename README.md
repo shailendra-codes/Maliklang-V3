@@ -16,3 +16,6 @@ This ecosystem operates entirely on a robust 5-file architecture:
 
 ## ⚖️ License
 Distributed under the MIT License.
+## 👤 Main Author & Visionary Creator
+* **Shailendra Kumar Singh** - *Self-Taught Python Developer & Neuro-AI Architect*
+ 
