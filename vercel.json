@@ -1,0 +1,9 @@
+{
+  "builds": [
+    {"src": "neuro_bridge.py", "use": "@vercel/python"}
+  ],
+  "routes": [
+    {"src": "/(.*)", "dest": "neuro_bridge.py"}
+  ]
+}
+ 
